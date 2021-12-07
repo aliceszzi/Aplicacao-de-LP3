@@ -1,0 +1,16 @@
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\bin\Debug\net5.0\Herança.exe
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\bin\Debug\net5.0\Herança.deps.json
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\bin\Debug\net5.0\Herança.runtimeconfig.json
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\bin\Debug\net5.0\Herança.runtimeconfig.dev.json
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\bin\Debug\net5.0\Herança.dll
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\bin\Debug\net5.0\ref\Herança.dll
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\bin\Debug\net5.0\Herança.pdb
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\obj\Debug\net5.0\Herança.csproj.AssemblyReference.cache
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\obj\Debug\net5.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\obj\Debug\net5.0\Herança.AssemblyInfoInputs.cache
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\obj\Debug\net5.0\Herança.AssemblyInfo.cs
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\obj\Debug\net5.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\obj\Debug\net5.0\Herança.dll
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\obj\Debug\net5.0\ref\Herança.dll
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\obj\Debug\net5.0\Herança.pdb
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\Herança\obj\Debug\net5.0\Herança.genruntimeconfig.cache
