@@ -1,0 +1,16 @@
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\bin\Debug\net5.0\livraria.exe
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\bin\Debug\net5.0\livraria.deps.json
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\bin\Debug\net5.0\livraria.runtimeconfig.json
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\bin\Debug\net5.0\livraria.runtimeconfig.dev.json
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\bin\Debug\net5.0\livraria.dll
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\bin\Debug\net5.0\ref\livraria.dll
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\bin\Debug\net5.0\livraria.pdb
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\obj\Debug\net5.0\livraria.csproj.AssemblyReference.cache
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\obj\Debug\net5.0\livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\obj\Debug\net5.0\livraria.AssemblyInfoInputs.cache
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\obj\Debug\net5.0\livraria.AssemblyInfo.cs
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\obj\Debug\net5.0\livraria.csproj.CoreCompileInputs.cache
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\obj\Debug\net5.0\livraria.dll
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\obj\Debug\net5.0\ref\livraria.dll
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\obj\Debug\net5.0\livraria.pdb
+C:\Users\alice\OneDrive\Área de Trabalho\Matérias - 331\Linguagem de Programação 3\C#\livraria\obj\Debug\net5.0\livraria.genruntimeconfig.cache
